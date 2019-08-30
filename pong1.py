@@ -32,7 +32,7 @@ paddle_b.goto(350, 0)
 
 # Ball
 ball = turtle.Turtle()
-ball.speed(0)
+ball.speed(8)
 ball.shape("square")
 ball.color("white")
 ball.penup()
